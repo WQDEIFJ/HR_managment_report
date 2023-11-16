@@ -1,0 +1,2 @@
+# Power-bi-Sql
+Conducted a comprehensive analysis of HR management processes to enhance organizational efficiency. Utilized MySQL for database management and Power Bl for data visualization, enabling strategic decision-making. Implemented data cleaning, transformation, and modelling to derive meaningful insights. Developed interactive dashboards, facilitating real-time monitoring of key HR metrics.
